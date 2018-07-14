@@ -1,0 +1,14 @@
+{
+  "name": "mzitucrawler",
+  "version": "1.0.0",
+  "description": "this is a crawler and downloader for mzitu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeptinary",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.1.4"
+  }
+}
